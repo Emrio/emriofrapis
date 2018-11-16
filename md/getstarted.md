@@ -47,9 +47,9 @@ This is an example of a request response
 }
 ```
 
-- `code` (Number) is the HTTP response code. List available [here][link-list-http-codes] (all are not used).
+- `code` (Number) is the HTTP response code. List available [here][link-list-http-codes].
 
-- `message` (String) is a official message of the response. For errors, it is always the meaning of the HTTP code (a 404 code implies a message of "Resource Not Found")
+- `message` (String) is an official message of the response. For errors, it is always the meaning of the HTTP code (a 404 code implies a message of "Resource Not Found")
 
 - A `data` (JSON Object) will be present if the API returned anything. The content of this object depends on the API you are using.
 
