@@ -4,8 +4,6 @@
 
 Our APIs are RESTful so every request should be made using the HTTP(S) protocol
 
-Latest version : `v1`
-
 **Table of content:**
 - Root endpoint
 - Accepted methods
