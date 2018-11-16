@@ -43,7 +43,7 @@ This is an example of a request response
 {
   "code": 200,
   "message": "Request succeeded",
-  "data": { ... }
+  "data": { }
 }
 ```
 
