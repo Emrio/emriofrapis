@@ -88,8 +88,10 @@ https://apis.emrio.fr/v3/service/etc
 Here is a list of the APIs currently available:
 
 - [Shortener][link-shortener] (`v1`) : URL shortening service
+- [Accounts][link-accounts] (`v1`) : API for Emrio.fr accounts
 
 
 [link-myaccount]: //emrio.fr/myaccount
 [link-list-http-codes]: https://en.wikipedia.org/wiki/List_of_HTTP_status_codes
 [link-shortener]: //emrio.fr/apis/shortener
+[link-accounts]: //emrio.fr/apis/accounts
